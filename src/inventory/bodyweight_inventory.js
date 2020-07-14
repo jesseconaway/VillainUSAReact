@@ -2,7 +2,7 @@ const bodyweight = [
   {
     id: "suspensionTrainer",
     name: "Suspension Trainer",
-    price: "99.99",
+    price: "119.99",
     weight: "500",
     url: "",
     categories: "bodyweight",
@@ -20,7 +20,7 @@ const bodyweight = [
   {
     id: "abMat",
     name: "Ab Mat",
-    price: "19.99",
+    price: "24.99",
     weight: "500",
     url: "",
     categories: "bodyweight",
@@ -52,7 +52,7 @@ const bodyweight = [
       {
         id: "climbingRope3m",
         name: "3m Climbing Rope",
-        price: "50.99",
+        price: "54.99",
         weight: "6000",
         url: "",
         categories: "bodyweight",
@@ -65,7 +65,7 @@ const bodyweight = [
       {
         id: "climbingRope4m",
         name: "4m Climbing Rope",
-        price: "54.99",
+        price: "59.99",
         weight: "7500",
         url: "",
         categories: "bodyweight",
@@ -78,7 +78,7 @@ const bodyweight = [
       {
         id: "climbingRope5m",
         name: "5m Climbing Rope",
-        price: "63.99",
+        price: "67.99",
         weight: "9000",
         url: "",
         categories: "bodyweight",
@@ -94,7 +94,7 @@ const bodyweight = [
   {
     id: "gymnasticRings",
     name: "Wooden Gymnastic Rings",
-    price: "59.99",
+    price: "64.99",
     weight: "1000",
     url: "",
     categories: "bodyweight",

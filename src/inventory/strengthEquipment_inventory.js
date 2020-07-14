@@ -53,7 +53,7 @@ const strengthEquipment = [
       {
         id: "fatGripsSmall",
         name: "Small Thick Grip Trainer",
-        price: "14.99",
+        price: "24.99",
         weight: "300",
         url: "",
         categories: "strengthEquipment",
@@ -66,7 +66,7 @@ const strengthEquipment = [
       {
         id: "fatGripsLarge",
         name: "Large Thick Grip Trainer",
-        price: "14.99",
+        price: "24.99",
         weight: "300",
         url: "",
         categories: "strengthEquipment",
@@ -81,7 +81,7 @@ const strengthEquipment = [
   {
     id: "squatPad",
     name: "Squat Pad",
-    price: "9.99",
+    price: "14.99",
     weight: "300",
     url: "",
     categories: "strengthEquipment",
@@ -296,7 +296,7 @@ const strengthEquipment = [
       {
         id: "wallBall3kg",
         name: "3kg Wall Ball",
-        price: "49.99",
+        price: "59.99",
         weight: "3000",
         url: "",
         categories: "strengthEquipment",
@@ -309,7 +309,7 @@ const strengthEquipment = [
       {
         id: "wallBall4kg",
         name: "4kg Wall Ball",
-        price: "49.99",
+        price: "64.99",
         weight: "4000",
         url: "",
         categories: "strengthEquipment",
@@ -322,7 +322,7 @@ const strengthEquipment = [
       {
         id: "wallBall5kg",
         name: "5kg Wall Ball",
-        price: "49.99",
+        price: "69.99",
         weight: "5000",
         url: "",
         categories: "strengthEquipment",
@@ -335,7 +335,7 @@ const strengthEquipment = [
       {
         id: "wallBall6kg",
         name: "6kg Wall Ball",
-        price: "49.99",
+        price: "74.99",
         weight: "6000",
         url: "",
         categories: "strengthEquipment",
@@ -348,7 +348,7 @@ const strengthEquipment = [
       {
         id: "wallBall7kg",
         name: "7kg Wall Ball",
-        price: "49.99",
+        price: "79.99",
         weight: "7000",
         url: "",
         categories: "strengthEquipment",
@@ -361,7 +361,7 @@ const strengthEquipment = [
       {
         id: "wallBall8kg",
         name: "8kg Wall Ball",
-        price: "49.99",
+        price: "84.99",
         weight: "8000",
         url: "",
         categories: "strengthEquipment",
@@ -374,7 +374,7 @@ const strengthEquipment = [
       {
         id: "wallBall9kg",
         name: "9kg Wall Ball",
-        price: "54.99",
+        price: "89.99",
         weight: "9000",
         url: "",
         categories: "strengthEquipment",
@@ -387,7 +387,7 @@ const strengthEquipment = [
       {
         id: "wallBall10kg",
         name: "10kg Wall Ball",
-        price: "54.99",
+        price: "94.99",
         weight: "10000",
         url: "",
         categories: "strengthEquipment",
@@ -400,7 +400,7 @@ const strengthEquipment = [
       {
         id: "wallBall11kg",
         name: "11kg Wall Ball",
-        price: "54.99",
+        price: "99.99",
         weight: "11000",
         url: "",
         categories: "strengthEquipment",
@@ -413,7 +413,7 @@ const strengthEquipment = [
       {
         id: "wallBall12kg",
         name: "12kg Wall Ball",
-        price: "54.99",
+        price: "104.99",
         weight: "12000",
         url: "",
         categories: "strengthEquipment",

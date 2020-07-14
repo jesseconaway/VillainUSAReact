@@ -121,7 +121,7 @@ const barbells = [
   {
     id: "techniqueBar",
     name: "Technique Bar",
-    price: "114.99",
+    price: "124.99",
     weight: "6804",
     url: "",
     categories: "barbells",

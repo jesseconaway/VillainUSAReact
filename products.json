@@ -1,30 +1,30 @@
 [
   {
     "id": "speedRope",
-    "price": "11.99",
+    "price": "14.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "agilityLadder",
-    "price": "49.99",
+    "price": "59.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "agilityHurdles",
-    "price": "39.99",
+    "price": "44.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "balanceBall",
-    "price": "89.99",
+    "price": "99.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "aerobicStepper",
-    "price": "59.99",
+    "price": "69.99",
     "url": "http://villainusa.com"
   },
 
@@ -60,91 +60,91 @@
 
   {
     "id": "techniqueBar",
-    "price": "114.99",
+    "price": "124.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "suspensionTrainer",
-    "price": "99.99",
-    "url": "http://villainusa.com"
-  },
-
-  {
-    "id": "abMat",
-    "price": "19.99",
-    "url": "http://villainusa.com"
-  },
-
-  {
-    "id": "climbingRope3m",
-    "price": "50.99",
-    "url": "http://villainusa.com"
-  },
-  {
-    "id": "climbingRope4m",
-    "price": "54.99",
-    "url": "http://villainusa.com"
-  },
-  {
-    "id": "climbingRope5m",
-    "price": "63.99",
-    "url": "http://villainusa.com"
-  },
-
-  {
-    "id": "gymnasticRings",
-    "price": "59.99",
-    "url": "http://villainusa.com"
-  },
-
-  {
-    "id": "competitionCollar",
     "price": "119.99",
     "url": "http://villainusa.com"
   },
 
   {
-    "id": "plasticCollar",
+    "id": "abMat",
     "price": "24.99",
     "url": "http://villainusa.com"
   },
 
   {
+    "id": "climbingRope3m",
+    "price": "54.99",
+    "url": "http://villainusa.com"
+  },
+  {
+    "id": "climbingRope4m",
+    "price": "59.99",
+    "url": "http://villainusa.com"
+  },
+  {
+    "id": "climbingRope5m",
+    "price": "67.99",
+    "url": "http://villainusa.com"
+  },
+
+  {
+    "id": "gymnasticRings",
+    "price": "64.99",
+    "url": "http://villainusa.com"
+  },
+
+  {
+    "id": "competitionCollar",
+    "price": "149.99",
+    "url": "http://villainusa.com"
+  },
+
+  {
+    "id": "plasticCollar",
+    "price": "29.99",
+    "url": "http://villainusa.com"
+  },
+
+  {
     "id": "springCollars",
-    "price": "6.99",
+    "price": "7.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "woodenJumpBox",
-    "price": "99.99",
+    "price": "109.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "3inBox",
-    "price": "64.99",
+    "price": "84.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "6inBox",
-    "price": "96.99",
+    "price": "144.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "12inBox",
-    "price": "154.99",
+    "price": "199.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "18inBox",
-    "price": "219.99",
+    "price": "249.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "24inBox",
-    "price": "274.99",
+    "price": "299.99",
     "url": "http://villainusa.com"
   },
 
@@ -372,12 +372,12 @@
   },
   {
     "id": "doubleMassageBall",
-    "price": "9.99",
+    "price": "14.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "foamRoller",
-    "price": "16.99",
+    "price": "24.99",
     "url": "http://villainusa.com"
   },
   {
@@ -387,7 +387,7 @@
   },
   {
     "id": "yogaBall",
-    "price": "9.99",
+    "price": "19.99",
     "url": "http://villainusa.com"
   },
   {
@@ -407,32 +407,32 @@
   },
   {
     "id": "208cmBandsRed",
-    "price": "6.99",
+    "price": "12.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "208cmBandsBlack",
-    "price": "10.99",
+    "price": "13.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "208cmBandsPurple",
-    "price": "14.99",
+    "price": "17.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "208cmBandsGreen",
-    "price": "18.99",
-    "url": "http://villainusa.com"
-  },
-  {
-    "id": "208cmBandsBlue",
     "price": "23.99",
     "url": "http://villainusa.com"
   },
   {
-    "id": "208cmBandsOrange",
+    "id": "208cmBandsBlue",
     "price": "29.99",
+    "url": "http://villainusa.com"
+  },
+  {
+    "id": "208cmBandsOrange",
+    "price": "39.99",
     "url": "http://villainusa.com"
   },
 
@@ -456,70 +456,70 @@
 
   {
     "id": "plateRack",
-    "price": "89.99",
+    "price": "149.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "squatRack",
-    "price": "259.99",
+    "price": "269.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "jerkBlocks",
-    "price": "699.99",
+    "price": "899.99",
     "url": "http://villainusa.com"
   },
 
   {
     "id": "platform",
-    "price": "749.99",
+    "price": "949.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "2.5lbChangePlate",
-    "price": "12.99",
-    "url": "http://villainusa.com"
-  },
-  {
-    "id": "5lbChangePlate",
-    "price": "18.99",
-    "url": "http://villainusa.com"
-  },
-  {
-    "id": "0.5kgChangePlate",
-    "price": "8.99",
-    "url": "http://villainusa.com"
-  },
-  {
-    "id": "1kgChangePlate",
-    "price": "10.99",
-    "url": "http://villainusa.com"
-  },
-  {
-    "id": "1.5kgChangePlate",
-    "price": "12.99",
-    "url": "http://villainusa.com"
-  },
-  {
-    "id": "2kgChangePlate",
     "price": "14.99",
     "url": "http://villainusa.com"
   },
   {
+    "id": "5lbChangePlate",
+    "price": "19.99",
+    "url": "http://villainusa.com"
+  },
+  {
+    "id": "0.5kgChangePlate",
+    "price": "10.99",
+    "url": "http://villainusa.com"
+  },
+  {
+    "id": "1kgChangePlate",
+    "price": "14.99",
+    "url": "http://villainusa.com"
+  },
+  {
+    "id": "1.5kgChangePlate",
+    "price": "15.99",
+    "url": "http://villainusa.com"
+  },
+  {
+    "id": "2kgChangePlate",
+    "price": "19.99",
+    "url": "http://villainusa.com"
+  },
+  {
     "id": "2.5kgChangePlate",
-    "price": "18.99",
+    "price": "21.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "5kgChangePlate",
-    "price": "26.99",
+    "price": "39.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "25lbCompetitionPlate",
-    "price": "96.99",
+    "price": "93.99",
     "url": "http://villainusa.com"
   },
   {
@@ -529,12 +529,12 @@
   },
   {
     "id": "45lbCompetitionPlate",
-    "price": "142.99",
+    "price": "139.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "55lbCompetitionPlate",
-    "price": "163.99",
+    "price": "164.99",
     "url": "http://villainusa.com"
   },
   {
@@ -714,17 +714,17 @@
   },
   {
     "id": "fatGripsSmall",
-    "price": "14.99",
+    "price": "24.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "fatGripsLarge",
-    "price": "14.99",
+    "price": "24.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "squatPad",
-    "price": "9.99",
+    "price": "14.99",
     "url": "http://villainusa.com"
   },
   {
@@ -789,52 +789,52 @@
   },
   {
     "id": "wallBall3kg",
-    "price": "49.99",
+    "price": "59.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall4kg",
-    "price": "49.99",
+    "price": "64.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall5kg",
-    "price": "49.99",
+    "price": "69.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall6kg",
-    "price": "49.99",
+    "price": "74.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall7kg",
-    "price": "49.99",
+    "price": "79.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall8kg",
-    "price": "49.99",
+    "price": "84.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall9kg",
-    "price": "54.99",
+    "price": "89.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall10kg",
-    "price": "54.99",
+    "price": "94.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall11kg",
-    "price": "54.99",
+    "price": "99.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "wallBall12kg",
-    "price": "54.99",
+    "price": "104.99",
     "url": "http://villainusa.com"
   },
   {
@@ -864,12 +864,12 @@
   },
   {
     "id": "elasticWristWraps",
-    "price": "6.99",
+    "price": "9.99",
     "url": "http://villainusa.com"
   },
   {
     "id": "kneeSleeves",
-    "price": "16.99",
+    "price": "19.99",
     "url": "http://villainusa.com"
   },
   {
@@ -879,7 +879,7 @@
   },
   {
     "id": "cottonWristWraps",
-    "price": "11.99",
+    "price": "14.99",
     "url": "http://villainusa.com"
   }
 ]

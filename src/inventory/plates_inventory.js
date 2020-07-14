@@ -23,7 +23,7 @@ const plates = [
       {
         id: "2.5lbChangePlate",
         name: "2.5lb Change Plate",
-        price: "12.99",
+        price: "14.99",
         weight: "1134",
         url: "",
         categories: "plates",
@@ -36,7 +36,7 @@ const plates = [
       {
         id: "5lbChangePlate",
         name: "5lb Change Plate",
-        price: "18.99",
+        price: "19.99",
         weight: "2268",
         url: "",
         categories: "plates",
@@ -49,7 +49,7 @@ const plates = [
       {
         id: "0.5kgChangePlate",
         name: "0.5kg Change Plate",
-        price: "8.99",
+        price: "10.99",
         weight: "500",
         url: "",
         categories: "plates",
@@ -62,7 +62,7 @@ const plates = [
       {
         id: "1kgChangePlate",
         name: "1kg Change Plate",
-        price: "10.99",
+        price: "14.99",
         weight: "1000",
         url: "",
         categories: "plates",
@@ -75,7 +75,7 @@ const plates = [
       {
         id: "1.5kgChangePlate",
         name: "1.5kg Change Plate",
-        price: "12.99",
+        price: "15.99",
         weight: "2500",
         url: "",
         categories: "plates",
@@ -88,7 +88,7 @@ const plates = [
       {
         id: "2kgChangePlate",
         name: "2kg Change Plate",
-        price: "14.99",
+        price: "19.99",
         weight: "2000",
         url: "",
         categories: "plates",
@@ -101,7 +101,7 @@ const plates = [
       {
         id: "2.5kgChangePlate",
         name: "2.5kg Change Plate",
-        price: "18.99",
+        price: "21.99",
         weight: "2500",
         url: "",
         categories: "plates",
@@ -114,7 +114,7 @@ const plates = [
       {
         id: "5kgChangePlate",
         name: "5kg Change Plate",
-        price: "26.99",
+        price: "39.99",
         weight: "5000",
         url: "",
         categories: "plates",
@@ -149,7 +149,7 @@ const plates = [
       {
         id: "25lbCompetitionPlate",
         name: "25lb Competition Plate",
-        price: "96.99",
+        price: "93.99",
         weight: "11340",
         url: "",
         categories: "plates",
@@ -175,7 +175,7 @@ const plates = [
       {
         id: "45lbCompetitionPlate",
         name: "45lb Competition Plate",
-        price: "142.99",
+        price: "139.99",
         weight: "20412",
         url: "",
         categories: "plates",
@@ -188,7 +188,7 @@ const plates = [
       {
         id: "55lbCompetitionPlate",
         name: "55lb Competition Plate",
-        price: "163.99",
+        price: "164.99",
         weight: "24948",
         url: "",
         categories: "plates",

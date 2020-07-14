@@ -2,7 +2,7 @@ const jumpBoxes = [
   {
     id: "woodenJumpBox",
     name: "3-in-1 Wooden Plyo Jump Box",
-    price: "99.99",
+    price: "109.99",
     weight: "1500",
     url: "",
     categories: "boxes",
@@ -32,7 +32,7 @@ const jumpBoxes = [
       {
         id: "3inBox",
         name: "3in Foam Jump Box",
-        price: "64.99",
+        price: "84.99",
         weight: "3500",
         url: "",
         categories: "boxes",
@@ -45,7 +45,7 @@ const jumpBoxes = [
       {
         id: "6inBox",
         name: "6in Foam Jump Box",
-        price: "96.99",
+        price: "144.99",
         weight: "5500",
         url: "",
         categories: "boxes",
@@ -58,7 +58,7 @@ const jumpBoxes = [
       {
         id: "12inBox",
         name: "12in Foam Jump Box",
-        price: "154.99",
+        price: "199.99",
         weight: "9500",
         url: "",
         categories: "boxes",
@@ -71,7 +71,7 @@ const jumpBoxes = [
       {
         id: "18inBox",
         name: "18in Foam Jump Box",
-        price: "219.99",
+        price: "249.99",
         weight: "13500",
         url: "",
         categories: "boxes",
@@ -84,7 +84,7 @@ const jumpBoxes = [
       {
         id: "24inBox",
         name: "24in Foam Jump Box",
-        price: "274.99",
+        price: "299.99",
         weight: "15500",
         url: "",
         categories: "boxes",

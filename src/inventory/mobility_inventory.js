@@ -23,7 +23,7 @@ const mobility = [
   {
     id: "doubleMassageBall",
     name: "Double Massage Ball",
-    price: "9.99",
+    price: "14.99",
     weight: "800",
     url: "",
     categories: "mobility",
@@ -45,7 +45,7 @@ const mobility = [
   {
     id: "foamRoller",
     name: "Foam Roller",
-    price: "16.99",
+    price: "24.99",
     weight: "500",
     url: "",
     categories: "mobility",
@@ -90,7 +90,7 @@ const mobility = [
   {
     id: "yogaBall",
     name: "Yoga Ball",
-    price: "9.99",
+    price: "19.99",
     weight: "500",
     url: "",
     categories: "mobility",
@@ -181,7 +181,7 @@ const mobility = [
       {
         id: "208cmBandsRed",
         name: "Red 208cm Resistance Band",
-        price: "6.99",
+        price: "12.99",
         weight: "100",
         url: "",
         categories: "mobility",
@@ -194,7 +194,7 @@ const mobility = [
       {
         id: "208cmBandsBlack",
         name: "Black 208cm Resistance Band",
-        price: "10.99",
+        price: "13.99",
         weight: "200",
         url: "",
         categories: "mobility",
@@ -207,7 +207,7 @@ const mobility = [
       {
         id: "208cmBandsPurple",
         name: "Purple 208cm Resistance Band",
-        price: "14.99",
+        price: "17.99",
         weight: "300",
         url: "",
         categories: "mobility",
@@ -220,7 +220,7 @@ const mobility = [
       {
         id: "208cmBandsGreen",
         name: "Green 208cm Resistance Band",
-        price: "18.99",
+        price: "23.99",
         weight: "400",
         url: "",
         categories: "mobility",
@@ -233,7 +233,7 @@ const mobility = [
       {
         id: "208cmBandsBlue",
         name: "Blue 208cm Resistance Band",
-        price: "23.99",
+        price: "29.99",
         weight: "500",
         url: "",
         categories: "mobility",
@@ -246,7 +246,7 @@ const mobility = [
       {
         id: "208cmBandsOrange",
         name: "Orange 208cm Resistance Band",
-        price: "29.99",
+        price: "39.99",
         weight: "600",
         url: "",
         categories: "mobility",

@@ -118,7 +118,7 @@ const weightliftingGear = [
   {
     id: "elasticWristWraps",
     name: "Elastic Wrist Wraps",
-    price: "6.99",
+    price: "9.99",
     weight: "200",
     url: "",
     categories: "weightliftingGear",
@@ -137,7 +137,7 @@ const weightliftingGear = [
   {
     id: "kneeSleeves",
     name: "Knee Sleeves",
-    price: "16.99",
+    price: "19.99",
     weight: "400",
     url: "",
     categories: "weightliftingGear",
@@ -177,7 +177,7 @@ const weightliftingGear = [
   {
     id: "cottonWristWraps",
     name: "Cotton Wrist Wraps",
-    price: "11.99",
+    price: "14.99",
     weight: "50",
     url: "",
     categories: "weightliftingGear",

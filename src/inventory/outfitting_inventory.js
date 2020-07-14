@@ -59,7 +59,7 @@ const outfitting = [
   {
     id: "plateRack",
     name: "Bumper Plate Rack",
-    price: "89.99",
+    price: "149.99",
     weight: "17500",
     url: "",
     categories: "outfitting",
@@ -79,7 +79,7 @@ const outfitting = [
   {
     id: "squatRack",
     name: "Squat Rack",
-    price: "259.99",
+    price: "269.99",
     weight: "37500",
     url: "",
     categories: "outfitting",
@@ -98,7 +98,7 @@ const outfitting = [
   {
     id: "jerkBlocks",
     name: "Jerk Blocks",
-    price: "699.99",
+    price: "899.99",
     weight: "80000",
     url: "",
     categories: "outfitting",
@@ -118,7 +118,7 @@ const outfitting = [
   {
     id: "platform",
     name: "Weightlifting Platform",
-    price: "749.99",
+    price: "949.99",
     weight: "126000",
     url: "",
     categories: "outfitting",

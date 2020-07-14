@@ -2,7 +2,7 @@ const collars = [
   {
     id: "competitionCollar",
     name: "Competition Collars",
-    price: "119.99",
+    price: "149.99",
     weight: "5000",
     url: "",
     categories: "collars",
@@ -22,7 +22,7 @@ const collars = [
   {
     id: "plasticCollar",
     name: "Plastic Collar",
-    price: "24.99",
+    price: "29.99",
     weight: "400",
     url: "",
     categories: "collars",
@@ -39,7 +39,7 @@ const collars = [
   {
     id: "springCollars",
     name: "Spring Collars",
-    price: "6.99",
+    price: "7.99",
     weight: "500",
     url: "",
     categories: "collars",

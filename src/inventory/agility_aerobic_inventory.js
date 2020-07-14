@@ -2,7 +2,7 @@ const aerobic = [
   {
     id: "speedRope",
     name: "Speed Rope",
-    price: "11.99",
+    price: "14.99",
     weight: "100",
     url: "",
     categories: "aerobic",
@@ -25,7 +25,7 @@ const aerobic = [
   {
     id: "agilityLadder",
     name: "Agility Ladder",
-    price: "49.99",
+    price: "59.99",
     weight: "2500",
     url: "",
     categories: "aerobic",
@@ -45,7 +45,7 @@ const aerobic = [
   {
     id: "agilityHurdles",
     name: "Agility Hurdle Set",
-    price: "39.99",
+    price: "44.99",
     weight: "2500",
     url: "",
     categories: "aerobic",
@@ -65,7 +65,7 @@ const aerobic = [
   {
     id: "balanceBall",
     name: "Balance Ball",
-    price: "89.99",
+    price: "99.99",
     weight: "5000",
     url: "",
     categories: "aerobic",
@@ -84,7 +84,7 @@ const aerobic = [
   {
     id: "aerobicStepper",
     name: "Aerobic Stepper",
-    price: "59.99",
+    price: "69.99",
     weight: "4000",
     url: "",
     categories: "aerobic",
