@@ -7,6 +7,8 @@ import { getProducts } from "../inventory/inventory";
 import { Link } from "react-router-dom";
 import Breadcrumb from "./breadcrumb";
 import AddToCartButton from "./addToCartButton";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 class SingleProduct extends Component {
   state = {
@@ -28,11 +30,6 @@ class SingleProduct extends Component {
     this.getProductImages();
     this.getRelatedProducts();
   }
-
-  setFoundProduct = (item) => {
-    const foundProduct = getProduct(item);
-    this.setState({ foundProduct });
-  };
 
   getRelatedProducts = () => {
     const { foundProduct } = this.state;
@@ -66,6 +63,7 @@ class SingleProduct extends Component {
 
   setCurrentProduct = (id) => {
     const currentProduct = getSubsetProduct(this.state.foundProduct.id, id);
+    currentProduct.outOfStock && toast.warning(`${currentProduct.name} is currently available only for preorder. Order fulfillment will take 6-8 weeks`);
     this.setState({ currentProduct });
   };
 
@@ -99,7 +97,9 @@ class SingleProduct extends Component {
           current={foundProduct.name}
           routeParts={params.category.replace(":", "")}
         />
+        <ToastContainer />
         <div className="container my-4">
+          <div className="outOfStockAlert">{currentProduct.outOfStock ? `${currentProduct.name} is currently available only for preorder. Order fulfillment will take 6-8 weeks` : null}</div>
           <div className="row">
             <div className="col-12 col-lg-6">
               <div
@@ -161,8 +161,8 @@ class SingleProduct extends Component {
                   </select>
                 </div>
               ) : (
-                <div className="d-none" />
-              )}
+                  <div className="d-none" />
+                )}
               <AddToCartButton
                 product={currentProduct}
                 url={url}

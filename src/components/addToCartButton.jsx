@@ -12,7 +12,7 @@ function AddToCartButton({ product, url, disabled }) {
       data-item-name={product.name}
       data-item-price={product.price}
       data-item-weight={product.weight}
-      data-item-url="http://villainusa.com"
+      data-item-url="http://villainusa.com/products"
       data-item-categories={product.categories}
       data-item-image={
         product.img ? require(`../assets/${product.img}.jpg`) : ""

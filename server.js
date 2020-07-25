@@ -14,7 +14,7 @@ app.use(compression());
 
 const products = require("./products.json");
 
-app.post("/", (req, res) => {
+app.get("/products", (req, res) => {
   res.header("Content-Type", "application/json").send(JSON.stringify(products));
 });
 

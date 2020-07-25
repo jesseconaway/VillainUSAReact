@@ -17,6 +17,21 @@ h5 {
   color: white;
 }
 
+.outOfStockAlert {
+  color: red;
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+.snipcart-layout__content::before {
+  background-color: #f0f5f6;
+  display: block;
+  padding: 0 2.4em 1.5em 2.4em;
+  font-size: 1em;
+  content: "NOTICE: For shipping reasons, maximum order weight is 150lbs. If your order exceeds this amount, we ask you to please complete multiple orders. We apologize for the inconvenience.";
+  color: red;
+}
+
 p,
 ul {
   color: white;
