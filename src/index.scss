@@ -23,6 +23,18 @@ h5 {
   margin-bottom: 10px;
 }
 
+.customAlert {
+  margin-top: 1rem;
+  a {
+    color: white;
+    text-decoration: none;
+    &:hover {
+      cursor: pointer;
+      color: hsl(0, 0, 70);
+    }
+  }
+}
+
 .snipcart-layout__content::before {
   background-color: #f0f5f6;
   display: block;

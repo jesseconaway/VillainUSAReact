@@ -25,6 +25,20 @@ h5 {
   margin-bottom: 10px;
 }
 
+.customAlert {
+  margin-top: 1rem;
+}
+
+.customAlert a {
+  color: white;
+  text-decoration: none;
+}
+
+.customAlert a:hover {
+  cursor: pointer;
+  color: #b3b3b3;
+}
+
 .snipcart-layout__content::before {
   background-color: #f0f5f6;
   display: block;

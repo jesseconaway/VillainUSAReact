@@ -124,6 +124,19 @@ const plates = [
         quantity: "1",
         img: "changePlates8",
       },
+      {
+        id: "10lbChangePlate",
+        name: "10lb Change Plate",
+        price: "39.99",
+        weight: "4536",
+        url: "http://villainusa.com/products",
+        categories: "plates",
+        width: "23",
+        length: "23",
+        height: "3",
+        quantity: "1",
+        img: "changePlates8",
+      },
     ],
   },
   //-------------------
@@ -333,6 +346,7 @@ const plates = [
         img: "economyPlates8",
       },
       {
+        outOfStock: true,
         id: "45lbEconomyPlate",
         name: "45lb Economy Plate",
         price: "84.99",

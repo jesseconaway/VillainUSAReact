@@ -14,6 +14,7 @@ const weightliftingGear = [
     },
     data: [
       {
+        customMessage: "<a href='https://www.trainweightlifting.com/shop' target='_blank'>For orders in Canada, click here.</a>",
         id: "redShoe",
         name: "Red Do-Win Weightlifting Shoe",
         price: "174.99",
@@ -30,6 +31,7 @@ const weightliftingGear = [
         img: "doWinShoe1",
       },
       {
+        customMessage: "<a href='https://www.trainweightlifting.com/shop' target='_blank'>For orders in Canada, click here.</a>",
         id: "yellowShoe",
         name: "Yellow Do-Win Weightlifting Shoe",
         price: "174.99",

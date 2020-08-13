@@ -25,6 +25,7 @@ const barbells = [
   },
 
   {
+    outOfStock: true,
     id: "15kgTrainingBar",
     name: "Women's 15kg Training Bar",
     price: "229.99",
@@ -75,6 +76,7 @@ const barbells = [
   },
 
   {
+    outOfStock: true,
     id: "20kgTrainingBar",
     name: "Men's 20kg Training Bar",
     price: "249.99",

@@ -141,7 +141,7 @@ class SingleProduct extends Component {
               />
 
               {foundProduct.data ? (
-                <div className="form-group mt-2">
+                <div className="form-group mt-2 mb-0">
                   <label htmlFor="productSelect">Select Product</label>
                   <select
                     onChange={(e) => this.setCurrentProduct(e.target.value)}
@@ -163,6 +163,7 @@ class SingleProduct extends Component {
               ) : (
                   <div className="d-none" />
                 )}
+              <div style={currentProduct.customMessage ? null : { display: 'none' }} className="customAlert" dangerouslySetInnerHTML={currentProduct.customMessage ? { __html: currentProduct.customMessage } : null}></div>
               <AddToCartButton
                 product={currentProduct}
                 url={url}

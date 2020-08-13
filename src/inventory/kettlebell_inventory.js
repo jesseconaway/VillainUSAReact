@@ -17,7 +17,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered4kg",
         name: "4kg Powder-Coated Competition Kettlebell",
-        price: "29.99",
+        price: "35.99",
         weight: "4000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -30,7 +30,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered6kg",
         name: "6kg Powder-Coated Competition Kettlebell",
-        price: "29.99",
+        price: "35.99",
         weight: "6000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -43,7 +43,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered8kg",
         name: "8kg Powder-Coated Competition Kettlebell",
-        price: "29.99",
+        price: "35.99",
         weight: "8000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -56,7 +56,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered10kg",
         name: "10kg Powder-Coated Competition Kettlebell",
-        price: "29.99",
+        price: "35.99",
         weight: "10000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -69,7 +69,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered12kg",
         name: "12kg Powder-Coated Competition Kettlebell",
-        price: "29.99",
+        price: "35.99",
         weight: "12000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -82,7 +82,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered14kg",
         name: "14kg Powder-Coated Competition Kettlebell",
-        price: "34.99",
+        price: "41.99",
         weight: "14000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -95,7 +95,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered16kg",
         name: "16kg Powder-Coated Competition Kettlebell",
-        price: "39.99",
+        price: "47.99",
         weight: "16000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -108,7 +108,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered18kg",
         name: "18kg Powder-Coated Competition Kettlebell",
-        price: "44.99",
+        price: "53.99",
         weight: "18000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -121,7 +121,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered20kg",
         name: "20kg Powder-Coated Competition Kettlebell",
-        price: "49.99",
+        price: "59.99",
         weight: "20000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -134,7 +134,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered22kg",
         name: "22kg Powder-Coated Competition Kettlebell",
-        price: "54.99",
+        price: "65.99",
         weight: "22000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -147,7 +147,7 @@ const kettlebells = [
       {
         id: "kbcompetitionpowdered24kg",
         name: "24kg Powder-Coated Competition Kettlebell",
-        price: "59.99",
+        price: "71.99",
         weight: "24000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -177,7 +177,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl4kg",
         name: "4kg Vinyl-Coated Competition Kettlebell",
-        price: "39.99",
+        price: "47.99",
         weight: "4000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -190,7 +190,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl6kg",
         name: "6kg Vinyl-Coated Competition Kettlebell",
-        price: "39.99",
+        price: "47.99",
         weight: "6000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -203,7 +203,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl8kg",
         name: "8kg Vinyl-Coated Competition Kettlebell",
-        price: "39.99",
+        price: "47.99",
         weight: "8000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -216,7 +216,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl10kg",
         name: "10kg Vinyl-Coated Competition Kettlebell",
-        price: "39.99",
+        price: "47.99",
         weight: "10000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -242,7 +242,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl16kg",
         name: "16kg Vinyl-Coated Competition Kettlebell",
-        price: "47.99",
+        price: "57.99",
         weight: "16000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -255,7 +255,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl18kg",
         name: "18kg Vinyl-Coated Competition Kettlebell",
-        price: "54.99",
+        price: "65.99",
         weight: "18000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -268,7 +268,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl20kg",
         name: "20kg Vinyl-Coated Competition Kettlebell",
-        price: "59.99",
+        price: "71.99",
         weight: "20000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -281,7 +281,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl22kg",
         name: "22kg Vinyl-Coated Competition Kettlebell",
-        price: "64.99",
+        price: "77.99",
         weight: "22000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -294,7 +294,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl24kg",
         name: "24kg Vinyl-Coated Competition Kettlebell",
-        price: "69.99",
+        price: "83.99",
         weight: "24000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -307,7 +307,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl28kg",
         name: "28kg Vinyl-Coated Competition Kettlebell",
-        price: "79.99",
+        price: "95.99",
         weight: "28000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -320,7 +320,7 @@ const kettlebells = [
       {
         id: "kbcompetitionvinyl32kg",
         name: "32kg Vinyl-Coated Competition Kettlebell",
-        price: "92.99",
+        price: "111.99",
         weight: "32000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -350,7 +350,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered4kg",
         name: "4kg Powder-Coated Training Kettlebell",
-        price: "9.99",
+        price: "11.99",
         weight: "4000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -363,7 +363,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered6kg",
         name: "6kg Powder-Coated Training Kettlebell",
-        price: "14.99",
+        price: "17.99",
         weight: "6000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -376,7 +376,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered8kg",
         name: "8kg Powder-Coated Training Kettlebell",
-        price: "17.99",
+        price: "21.99",
         weight: "8000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -389,7 +389,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered12kg",
         name: "12kg Powder-Coated Training Kettlebell",
-        price: "26.99",
+        price: "31.99",
         weight: "12000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -402,7 +402,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered16kg",
         name: "16kg Powder-Coated Training Kettlebell",
-        price: "34.99",
+        price: "41.99",
         weight: "16000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -415,7 +415,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered20kg",
         name: "20kg Powder-Coated Training Kettlebell",
-        price: "44.99",
+        price: "53.99",
         weight: "20000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -428,7 +428,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered24kg",
         name: "24kg Powder-Coated Training Kettlebell",
-        price: "52.99",
+        price: "63.99",
         weight: "24000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -441,7 +441,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered28kg",
         name: "28kg Powder-Coated Training Kettlebell",
-        price: "59.99",
+        price: "71.99",
         weight: "28000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -454,7 +454,7 @@ const kettlebells = [
       {
         id: "kbtrainingpowdered32kg",
         name: "32kg Powder-Coated Training Kettlebell",
-        price: "69.99",
+        price: "83.99",
         weight: "32000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -484,7 +484,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl2kg",
         name: "2kg Vinyl-Coated Training Kettlebell",
-        price: "6.99",
+        price: "8.99",
         weight: "2000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -497,7 +497,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl4kg",
         name: "4kg Vinyl-Coated Training Kettlebell",
-        price: "10.99",
+        price: "12.99",
         weight: "4000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -510,7 +510,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl6kg",
         name: "6kg Vinyl-Coated Training Kettlebell",
-        price: "16.99",
+        price: "19.99",
         weight: "6000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -523,7 +523,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl8kg",
         name: "8kg Vinyl-Coated Training Kettlebell",
-        price: "22.99",
+        price: "27.99",
         weight: "8000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -536,7 +536,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl10kg",
         name: "10kg Vinyl-Coated Training Kettlebell",
-        price: "27.99",
+        price: "33.99",
         weight: "10000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -549,7 +549,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl12kg",
         name: "12kg Vinyl-Coated Training Kettlebell",
-        price: "32.99",
+        price: "39.99",
         weight: "12000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -562,7 +562,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl16kg",
         name: "16kg Vinyl-Coated Training Kettlebell",
-        price: "44.99",
+        price: "53.99",
         weight: "16000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -575,7 +575,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl20kg",
         name: "20kg Vinyl-Coated Training Kettlebell",
-        price: "54.99",
+        price: "65.99",
         weight: "20000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -588,7 +588,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl24kg",
         name: "24kg Vinyl-Coated Training Kettlebell",
-        price: "64.99",
+        price: "77.99",
         weight: "24000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -601,7 +601,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl28kg",
         name: "28kg Vinyl-Coated Training Kettlebell",
-        price: "76.99",
+        price: "91.99",
         weight: "28000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
@@ -614,7 +614,7 @@ const kettlebells = [
       {
         id: "kbtrainingvinyl32kg",
         name: "32kg Vinyl-Coated Training Kettlebell",
-        price: "87.99",
+        price: "105.99",
         weight: "32000",
         url: "http://villainusa.com/products",
         categories: "kettlebells",
