@@ -2,7 +2,7 @@ const barbells = [
   {
     id: "15kgCompBar",
     name: "Women's 15kg Competition Bar",
-    price: "377.75",
+    price: "434.75",
     weight: "15000",
     url: "http://villainusa.com/products",
     categories: "barbells",
@@ -51,9 +51,10 @@ const barbells = [
   },
 
   {
+    outOfStock: true,
     id: "20kgCompBar",
     name: "Men's 20kg Competition Bar",
-    price: "394.99",
+    price: "453.99",
     weight: "20000",
     url: "http://villainusa.com/products",
     categories: "barbells",
@@ -102,6 +103,7 @@ const barbells = [
   },
 
   {
+    outOfStock: true,
     id: "hexBar",
     name: "Hex Bar",
     price: "219.99",
@@ -121,6 +123,7 @@ const barbells = [
   },
 
   {
+    outOfStock: true,
     id: "techniqueBar",
     name: "Technique Bar",
     price: "124.99",

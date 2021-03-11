@@ -16,6 +16,7 @@ export default class Contact extends React.Component {
         <ToastContainer />
         <form className="test-mailing">
           <h1>Contact Us</h1>
+          <p>Use the secure contact form below, or email us at <a href="mailto:villainfitnessusa@gmail.com?subject=VillainUSA Question">villainfitnessusa@gmail.com</a></p>
           <div className="row">
             <div className="col-md-6 form-group">
               <label htmlFor="name">Name</label>

@@ -1,8 +1,9 @@
 const aerobic = [
   {
+    outOfStock: true,
     id: "speedRope",
     name: "Speed Rope",
-    price: "14.99",
+    price: "16.99",
     weight: "100",
     url: "http://villainusa.com/products",
     categories: "aerobic",
@@ -23,9 +24,10 @@ const aerobic = [
   },
 
   {
+    outOfStock: true,
     id: "agilityLadder",
     name: "Agility Ladder",
-    price: "59.99",
+    price: "68.99",
     weight: "2500",
     url: "http://villainusa.com/products",
     categories: "aerobic",
@@ -43,9 +45,10 @@ const aerobic = [
   },
 
   {
+    outOfStock: true,
     id: "agilityHurdles",
     name: "Agility Hurdle Set",
-    price: "44.99",
+    price: "51.99",
     weight: "2500",
     url: "http://villainusa.com/products",
     categories: "aerobic",
@@ -63,9 +66,10 @@ const aerobic = [
   },
 
   {
+    outOfStock: true,
     id: "balanceBall",
     name: "Balance Ball",
-    price: "99.99",
+    price: "114.99",
     weight: "5000",
     url: "http://villainusa.com/products",
     categories: "aerobic",
@@ -82,9 +86,10 @@ const aerobic = [
     },
   },
   {
+    outOfStock: true,
     id: "aerobicStepper",
     name: "Aerobic Stepper",
-    price: "69.99",
+    price: "79.99",
     weight: "4000",
     url: "http://villainusa.com/products",
     categories: "aerobic",

@@ -1,36 +1,36 @@
 [
   {
     "id": "speedRope",
-    "price": "14.99",
+    "price": "16.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "agilityLadder",
-    "price": "59.99",
+    "price": "68.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "agilityHurdles",
-    "price": "44.99",
+    "price": "51.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "balanceBall",
-    "price": "99.99",
+    "price": "114.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "aerobicStepper",
-    "price": "69.99",
+    "price": "79.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "15kgCompBar",
-    "price": "377.75",
+    "price": "434.99",
     "url": "http://villainusa.com/products"
   },
 
@@ -42,7 +42,7 @@
 
   {
     "id": "20kgCompBar",
-    "price": "394.99",
+    "price": "453.99",
     "url": "http://villainusa.com/products"
   },
 
@@ -66,85 +66,85 @@
 
   {
     "id": "suspensionTrainer",
-    "price": "119.99",
+    "price": "139.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "abMat",
-    "price": "24.99",
-    "url": "http://villainusa.com/products"
-  },
-
-  {
-    "id": "climbingRope3m",
-    "price": "54.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "climbingRope4m",
-    "price": "59.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "climbingRope5m",
-    "price": "67.99",
-    "url": "http://villainusa.com/products"
-  },
-
-  {
-    "id": "gymnasticRings",
-    "price": "64.99",
-    "url": "http://villainusa.com/products"
-  },
-
-  {
-    "id": "competitionCollar",
-    "price": "149.99",
-    "url": "http://villainusa.com/products"
-  },
-
-  {
-    "id": "plasticCollar",
     "price": "29.99",
     "url": "http://villainusa.com/products"
   },
 
   {
+    "id": "climbingRope3m",
+    "price": "64.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "climbingRope4m",
+    "price": "69.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "climbingRope5m",
+    "price": "79.99",
+    "url": "http://villainusa.com/products"
+  },
+
+  {
+    "id": "gymnasticRings",
+    "price": "74.99",
+    "url": "http://villainusa.com/products"
+  },
+
+  {
+    "id": "competitionCollar",
+    "price": "169.99",
+    "url": "http://villainusa.com/products"
+  },
+
+  {
+    "id": "plasticCollar",
+    "price": "34.99",
+    "url": "http://villainusa.com/products"
+  },
+
+  {
     "id": "springCollars",
-    "price": "7.99",
+    "price": "9.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "woodenJumpBox",
-    "price": "109.99",
+    "price": "129.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "3inBox",
-    "price": "84.99",
+    "price": "109.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "6inBox",
-    "price": "144.99",
+    "price": "174.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "12inBox",
-    "price": "199.99",
+    "price": "224.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "18inBox",
-    "price": "249.99",
+    "price": "279.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "24inBox",
-    "price": "299.99",
+    "price": "329.99",
     "url": "http://villainusa.com/products"
   },
 
@@ -155,701 +155,701 @@
   },
   {
     "id": "kbcompetitionpowdered6kg",
-    "price": "35.99",
+    "price": "39.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionpowdered8kg",
-    "price": "35.99",
+    "price": "49.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionpowdered10kg",
-    "price": "35.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbcompetitionpowdered12kg",
-    "price": "35.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbcompetitionpowdered14kg",
-    "price": "41.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbcompetitionpowdered16kg",
-    "price": "47.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbcompetitionpowdered18kg",
-    "price": "53.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbcompetitionpowdered20kg",
     "price": "59.99",
     "url": "http://villainusa.com/products"
   },
   {
+    "id": "kbcompetitionpowdered12kg",
+    "price": "69.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbcompetitionpowdered14kg",
+    "price": "74.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbcompetitionpowdered16kg",
+    "price": "79.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbcompetitionpowdered18kg",
+    "price": "84.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbcompetitionpowdered20kg",
+    "price": "89.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
     "id": "kbcompetitionpowdered22kg",
-    "price": "65.99",
+    "price": "94.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionpowdered24kg",
-    "price": "71.99",
+    "price": "99.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "kbcompetitionvinyl4kg",
-    "price": "47.99",
+    "price": "49.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl6kg",
-    "price": "47.99",
+    "price": "54.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl8kg",
-    "price": "47.99",
+    "price": "64.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl10kg",
-    "price": "47.99",
+    "price": "69.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl12kg",
-    "price": "42.99",
+    "price": "74.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl16kg",
-    "price": "57.99",
+    "price": "79.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl18kg",
-    "price": "65.99",
+    "price": "84.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl20kg",
-    "price": "71.99",
+    "price": "89.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl22kg",
-    "price": "77.99",
+    "price": "94.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl24kg",
-    "price": "83.99",
+    "price": "99.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl28kg",
-    "price": "95.99",
+    "price": "114.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbcompetitionvinyl32kg",
-    "price": "111.99",
+    "price": "129.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbtrainingpowdered4kg",
-    "price": "11.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingpowdered6kg",
-    "price": "17.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingpowdered8kg",
-    "price": "21.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingpowdered12kg",
-    "price": "31.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingpowdered16kg",
-    "price": "41.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingpowdered20kg",
-    "price": "53.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingpowdered24kg",
-    "price": "63.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingpowdered28kg",
-    "price": "71.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingpowdered32kg",
-    "price": "83.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingvinyl2kg",
-    "price": "8.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingvinyl4kg",
-    "price": "12.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingvinyl6kg",
     "price": "19.99",
     "url": "http://villainusa.com/products"
   },
   {
+    "id": "kbtrainingpowdered6kg",
+    "price": "24.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingpowdered8kg",
+    "price": "29.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingpowdered12kg",
+    "price": "34.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingpowdered16kg",
+    "price": "44.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingpowdered20kg",
+    "price": "59.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingpowdered24kg",
+    "price": "69.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingpowdered28kg",
+    "price": "84.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingpowdered32kg",
+    "price": "99.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingvinyl2kg",
+    "price": "9.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingvinyl4kg",
+    "price": "14.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "kbtrainingvinyl6kg",
+    "price": "24.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
     "id": "kbtrainingvinyl8kg",
-    "price": "27.99",
+    "price": "34.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbtrainingvinyl10kg",
-    "price": "33.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "kbtrainingvinyl12kg",
     "price": "39.99",
     "url": "http://villainusa.com/products"
   },
   {
+    "id": "kbtrainingvinyl12kg",
+    "price": "49.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
     "id": "kbtrainingvinyl16kg",
-    "price": "53.99",
+    "price": "62.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbtrainingvinyl20kg",
-    "price": "65.99",
+    "price": "74.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbtrainingvinyl24kg",
-    "price": "77.99",
+    "price": "89.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbtrainingvinyl28kg",
-    "price": "91.99",
+    "price": "99.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kbtrainingvinyl32kg",
-    "price": "105.99",
+    "price": "119.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "massageBall",
-    "price": "5.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "doubleMassageBall",
-    "price": "14.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "foamRoller",
-    "price": "24.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "yogaMat",
-    "price": "14.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "yogaBall",
-    "price": "19.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "61cmBandsRed",
-    "price": "5.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "61cmBandsPurple",
     "price": "7.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "61cmBandsGreen",
-    "price": "9.99",
+    "id": "doubleMassageBall",
+    "price": "19.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "208cmBandsRed",
-    "price": "12.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "208cmBandsBlack",
-    "price": "13.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "208cmBandsPurple",
-    "price": "17.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "208cmBandsGreen",
-    "price": "23.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "208cmBandsBlue",
+    "id": "foamRoller",
     "price": "29.99",
     "url": "http://villainusa.com/products"
   },
   {
+    "id": "yogaMat",
+    "price": "19.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "yogaBall",
+    "price": "24.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "61cmBandsRed",
+    "price": "7.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "61cmBandsPurple",
+    "price": "9.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "61cmBandsGreen",
+    "price": "12.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "208cmBandsRed",
+    "price": "14.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "208cmBandsBlack",
+    "price": "16.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "208cmBandsPurple",
+    "price": "19.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "208cmBandsGreen",
+    "price": "27.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "208cmBandsBlue",
+    "price": "34.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
     "id": "208cmBandsOrange",
-    "price": "39.99",
+    "price": "45.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "barbellFloorRack",
-    "price": "124.99",
+    "price": "134.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "chalkBucket",
-    "price": "109.99",
+    "price": "119.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "beltHanger",
-    "price": "29.99",
+    "price": "34.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "plateRack",
-    "price": "149.99",
+    "price": "169.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "squatRack",
-    "price": "269.99",
+    "price": "229.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "jerkBlocks",
-    "price": "899.99",
+    "price": "999.99",
     "url": "http://villainusa.com/products"
   },
 
   {
     "id": "platform",
-    "price": "949.99",
+    "price": "1099.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "2.5lbChangePlate",
-    "price": "14.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "5lbChangePlate",
-    "price": "19.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "0.5kgChangePlate",
-    "price": "10.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "1kgChangePlate",
-    "price": "14.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "1.5kgChangePlate",
-    "price": "15.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "2kgChangePlate",
-    "price": "19.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "2.5kgChangePlate",
-    "price": "21.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "5kgChangePlate",
-    "price": "39.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "10lbChangePlate",
-    "price": "39.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "25lbCompetitionPlate",
-    "price": "93.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "35lbCompetitionPlate",
-    "price": "118.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "45lbCompetitionPlate",
-    "price": "139.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "55lbCompetitionPlate",
-    "price": "164.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "10kgCompetitionPlate",
-    "price": "91.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "15kgCompetitionPlate",
-    "price": "111.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "20kgCompetitionPlate",
-    "price": "139.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "25kgCompetitionPlate",
-    "price": "163.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "10lbEconomyPlate",
-    "price": "28.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "15lbEconomyPlate",
-    "price": "35.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "25lbEconomyPlate",
-    "price": "44.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "35lbEconomyPlate",
-    "price": "63.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "45lbEconomyPlate",
-    "price": "84.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "55lbEconomyPlate",
-    "price": "96.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "5kgEconomyPlate",
-    "price": "30.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "10kgEconomyPlate",
-    "price": "42.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "15kgEconomyPlate",
-    "price": "60.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "20kgEconomyPlate",
-    "price": "84.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "25kgEconomyPlate",
-    "price": "102.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "25lbTrainingPlate",
-    "price": "82.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "35lbTrainingPlate",
-    "price": "100.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "45lbTrainingPlate",
-    "price": "129.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "55lbTrainingPlate",
-    "price": "142.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "10kgTrainingPlate",
-    "price": "76.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "15kgTrainingPlate",
-    "price": "95.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "20kgTrainingPlate",
-    "price": "127.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "25kgTrainingPlate",
-    "price": "142.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "25lbStripedPlate",
-    "price": "87.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "35lbStripedPlate",
-    "price": "109.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "45lbStripedPlate",
-    "price": "131.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "55lbStripedPlate",
-    "price": "153.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "10kgStripedPlate",
-    "price": "82.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "15kgStripedPlate",
-    "price": "101.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "20kgStripedPlate",
-    "price": "126.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "25kgStripedPlate",
-    "price": "148.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "2.5kgTechniquePlate",
-    "price": "66.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "5kgPlasticTechniquePlate",
-    "price": "79.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "vipr6kg",
-    "price": "79.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "vipr8kg",
-    "price": "99.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "fatGripsSmall",
-    "price": "24.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "fatGripsLarge",
-    "price": "24.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "squatPad",
-    "price": "14.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "powerSled",
-    "price": "169.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "battleRope38mm",
-    "price": "164.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "battleRope50mm",
-    "price": "199.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "medBall5lb",
-    "price": "14.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "medBall10lb",
-    "price": "16.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "medBall15lb",
-    "price": "19.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "medBall20lb",
-    "price": "24.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "medBall25lb",
     "price": "29.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "medBall30lb",
-    "price": "33.99",
+    "id": "5lbChangePlate",
+    "price": "39.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "medBall35lb",
-    "price": "37.99",
+    "id": "0.5kgChangePlate",
+    "price": "21.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "medBall40lb",
-    "price": "49.99",
+    "id": "1kgChangePlate",
+    "price": "29.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "medBall50lb",
-    "price": "64.99",
+    "id": "1.5kgChangePlate",
+    "price": "31.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "wallBall3kg",
-    "price": "59.99",
+    "id": "2kgChangePlate",
+    "price": "39.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "wallBall4kg",
-    "price": "64.99",
+    "id": "2.5kgChangePlate",
+    "price": "43.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "wallBall5kg",
-    "price": "69.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "wallBall6kg",
-    "price": "74.99",
-    "url": "http://villainusa.com/products"
-  },
-  {
-    "id": "wallBall7kg",
+    "id": "5kgChangePlate",
     "price": "79.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "wallBall8kg",
-    "price": "84.99",
+    "id": "10lbChangePlate",
+    "price": "79.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "wallBall9kg",
-    "price": "89.99",
+    "id": "25lbCompetitionPlate",
+    "price": "187.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "wallBall10kg",
-    "price": "94.99",
+    "id": "35lbCompetitionPlate",
+    "price": "237.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "wallBall11kg",
+    "id": "45lbCompetitionPlate",
+    "price": "279.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "55lbCompetitionPlate",
+    "price": "329.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "10kgCompetitionPlate",
+    "price": "183.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "15kgCompetitionPlate",
+    "price": "223.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "20kgCompetitionPlate",
+    "price": "279.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "25kgCompetitionPlate",
+    "price": "327.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "10lbEconomyPlate",
+    "price": "65.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "15lbEconomyPlate",
+    "price": "81.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "25lbEconomyPlate",
+    "price": "103.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "35lbEconomyPlate",
+    "price": "147.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "45lbEconomyPlate",
+    "price": "195.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "55lbEconomyPlate",
+    "price": "223.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "5kgEconomyPlate",
+    "price": "71.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "10kgEconomyPlate",
     "price": "99.99",
     "url": "http://villainusa.com/products"
   },
   {
-    "id": "wallBall12kg",
+    "id": "15kgEconomyPlate",
+    "price": "139.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "20kgEconomyPlate",
+    "price": "195.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "25kgEconomyPlate",
+    "price": "235.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "25lbTrainingPlate",
+    "price": "165.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "35lbTrainingPlate",
+    "price": "201.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "45lbTrainingPlate",
+    "price": "259.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "55lbTrainingPlate",
+    "price": "285.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "10kgTrainingPlate",
+    "price": "153.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "15kgTrainingPlate",
+    "price": "191.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "20kgTrainingPlate",
+    "price": "255.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "25kgTrainingPlate",
+    "price": "285.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "25lbStripedPlate",
+    "price": "175.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "35lbStripedPlate",
+    "price": "219.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "45lbStripedPlate",
+    "price": "263.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "55lbStripedPlate",
+    "price": "307.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "10kgStripedPlate",
+    "price": "165.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "15kgStripedPlate",
+    "price": "203.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "20kgStripedPlate",
+    "price": "253.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "25kgStripedPlate",
+    "price": "297.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "2.5kgTechniquePlate",
+    "price": "133.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "5kgPlasticTechniquePlate",
+    "price": "159.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "vipr6kg",
+    "price": "89.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "vipr8kg",
+    "price": "109.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "fatGripsSmall",
+    "price": "28.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "fatGripsLarge",
+    "price": "28.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "squatPad",
+    "price": "19.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "powerSled",
+    "price": "199.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "battleRope38mm",
+    "price": "184.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "battleRope50mm",
+    "price": "219.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall5lb",
+    "price": "19.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall10lb",
+    "price": "19.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall15lb",
+    "price": "24.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall20lb",
+    "price": "29.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall25lb",
+    "price": "34.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall30lb",
+    "price": "39.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall35lb",
+    "price": "44.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall40lb",
+    "price": "54.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "medBall50lb",
+    "price": "69.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall3kg",
+    "price": "64.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall4kg",
+    "price": "69.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall5kg",
+    "price": "74.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall6kg",
+    "price": "79.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall7kg",
+    "price": "84.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall8kg",
+    "price": "89.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall9kg",
+    "price": "94.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall10kg",
+    "price": "99.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "wallBall11kg",
     "price": "104.99",
     "url": "http://villainusa.com/products"
   },
   {
+    "id": "wallBall12kg",
+    "price": "109.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
     "id": "redShoe",
-    "price": "174.99",
+    "price": "99.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "yellowShoe",
-    "price": "174.99",
+    "price": "99.99",
     "url": "http://villainusa.com/products"
   },
   {
@@ -863,28 +863,48 @@
     "url": "http://villainusa.com/products"
   },
   {
+    "id": "antaShoe",
+    "price": "249.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
     "id": "weightliftingBelt",
-    "price": "65.99",
+    "price": "75.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "elasticWristWraps",
-    "price": "9.99",
+    "price": "12.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "kneeSleeves",
-    "price": "19.99",
+    "price": "24.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "weightliftingStraps",
-    "price": "11.99",
+    "price": "13.99",
     "url": "http://villainusa.com/products"
   },
   {
     "id": "cottonWristWraps",
+    "price": "16.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "mask",
     "price": "14.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "maShirtGray",
+    "price": "24.99",
+    "url": "http://villainusa.com/products"
+  },
+  {
+    "id": "maShirtBlack",
+    "price": "24.99",
     "url": "http://villainusa.com/products"
   }
 ]

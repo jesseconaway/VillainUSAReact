@@ -2,7 +2,7 @@ const collars = [
   {
     id: "competitionCollar",
     name: "Competition Collars",
-    price: "149.99",
+    price: "169.99",
     weight: "5000",
     url: "http://villainusa.com/products",
     categories: "collars",
@@ -22,7 +22,7 @@ const collars = [
   {
     id: "plasticCollar",
     name: "Plastic Collar",
-    price: "29.99",
+    price: "34.99",
     weight: "400",
     url: "http://villainusa.com/products",
     categories: "collars",
@@ -39,7 +39,7 @@ const collars = [
   {
     id: "springCollars",
     name: "Spring Collars",
-    price: "7.99",
+    price: "9.99",
     weight: "500",
     url: "http://villainusa.com/products",
     categories: "collars",

@@ -1,8 +1,9 @@
 const bodyweight = [
   {
+    outOfStock: true,
     id: "suspensionTrainer",
     name: "Suspension Trainer",
-    price: "119.99",
+    price: "139.99",
     weight: "500",
     url: "http://villainusa.com/products",
     categories: "bodyweight",
@@ -18,9 +19,10 @@ const bodyweight = [
   },
 
   {
+    outOfStock: true,
     id: "abMat",
     name: "Ab Mat",
-    price: "24.99",
+    price: "29.99",
     weight: "500",
     url: "http://villainusa.com/products",
     categories: "bodyweight",
@@ -50,9 +52,10 @@ const bodyweight = [
     },
     data: [
       {
+        outOfStock: true,
         id: "climbingRope3m",
         name: "3m Climbing Rope",
-        price: "54.99",
+        price: "64.99",
         weight: "6000",
         url: "http://villainusa.com/products",
         categories: "bodyweight",
@@ -63,9 +66,10 @@ const bodyweight = [
         img: "climbingRope1",
       },
       {
+        outOfStock: true,
         id: "climbingRope4m",
         name: "4m Climbing Rope",
-        price: "59.99",
+        price: "69.99",
         weight: "7500",
         url: "http://villainusa.com/products",
         categories: "bodyweight",
@@ -76,9 +80,10 @@ const bodyweight = [
         img: "climbingRope1",
       },
       {
+        outOfStock: true,
         id: "climbingRope5m",
         name: "5m Climbing Rope",
-        price: "67.99",
+        price: "79.99",
         weight: "9000",
         url: "http://villainusa.com/products",
         categories: "bodyweight",
@@ -92,9 +97,10 @@ const bodyweight = [
   },
 
   {
+    outOfStock: true,
     id: "gymnasticRings",
     name: "Wooden Gymnastic Rings",
-    price: "64.99",
+    price: "74.99",
     weight: "1000",
     url: "http://villainusa.com/products",
     categories: "bodyweight",

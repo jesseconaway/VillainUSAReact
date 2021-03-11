@@ -1,8 +1,9 @@
 const jumpBoxes = [
   {
+    outOfStock: true,
     id: "woodenJumpBox",
     name: "3-in-1 Wooden Plyo Jump Box",
-    price: "109.99",
+    price: "129.99",
     weight: "1500",
     url: "http://villainusa.com/products",
     categories: "boxes",
@@ -30,9 +31,10 @@ const jumpBoxes = [
     },
     data: [
       {
+        outOfStock: true,
         id: "3inBox",
         name: "3in Foam Jump Box",
-        price: "84.99",
+        price: "109.99",
         weight: "3500",
         url: "http://villainusa.com/products",
         categories: "boxes",
@@ -43,9 +45,10 @@ const jumpBoxes = [
         img: "foamJumpBox1",
       },
       {
+        outOfStock: true,
         id: "6inBox",
         name: "6in Foam Jump Box",
-        price: "144.99",
+        price: "174.99",
         weight: "5500",
         url: "http://villainusa.com/products",
         categories: "boxes",
@@ -56,9 +59,10 @@ const jumpBoxes = [
         img: "foamJumpBox1",
       },
       {
+        outOfStock: true,
         id: "12inBox",
         name: "12in Foam Jump Box",
-        price: "199.99",
+        price: "224.99",
         weight: "9500",
         url: "http://villainusa.com/products",
         categories: "boxes",
@@ -69,9 +73,10 @@ const jumpBoxes = [
         img: "foamJumpBox1",
       },
       {
+        outOfStock: true,
         id: "18inBox",
         name: "18in Foam Jump Box",
-        price: "249.99",
+        price: "279.99",
         weight: "13500",
         url: "http://villainusa.com/products",
         categories: "boxes",
@@ -82,9 +87,10 @@ const jumpBoxes = [
         img: "foamJumpBox1",
       },
       {
+        outOfStock: true,
         id: "24inBox",
         name: "24in Foam Jump Box",
-        price: "299.99",
+        price: "329.99",
         weight: "15500",
         url: "http://villainusa.com/products",
         categories: "boxes",

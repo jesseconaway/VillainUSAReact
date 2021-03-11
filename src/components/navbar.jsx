@@ -4,6 +4,16 @@ import cart from "../assets/cart.png";
 
 class Navbar extends Component {
   searchValue = React.createRef();
+  navToggle = React.createRef();
+
+  componentDidUpdate(prevProps) {
+    if (window.innerWidth < 992 && !this.navToggle.current.classList.contains('collapsed') && this.props.location !== prevProps.location) {
+      this.navToggle.current.click();
+    }
+    if (this.props.location !== prevProps.location) {
+      window.scrollTo(0, 0);
+    }
+  }
 
   handleSubmit = (e) => {
     e.preventDefault();
@@ -21,7 +31,8 @@ class Navbar extends Component {
         </Link>
         {/* -------MOBILE TOGGLE------- */}
         <button
-          className="navbar-toggler"
+          ref={this.navToggle}
+          className="navbar-toggler collapsed"
           type="button"
           data-toggle="collapse"
           data-target="#navbarSupportedContent"

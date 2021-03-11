@@ -1,8 +1,9 @@
 const outfitting = [
   {
+    outOfStock: true,
     id: "barbellFloorRack",
     name: "Barbell Floor Rack",
-    price: "124.99",
+    price: "134.99",
     weight: "25000",
     url: "http://villainusa.com/products",
     categories: "outfitting",
@@ -20,9 +21,10 @@ const outfitting = [
   },
 
   {
+    outOfStock: true,
     id: "chalkBucket",
     name: "Chalk Bucket",
-    price: "109.99",
+    price: "119.99",
     weight: "3000",
     url: "http://villainusa.com/products",
     categories: "outfitting",
@@ -37,9 +39,10 @@ const outfitting = [
   },
 
   {
+    outOfStock: true,
     id: "beltHanger",
     name: "Belt & Band Hanger",
-    price: "29.99",
+    price: "34.99",
     weight: "3000",
     url: "http://villainusa.com/products",
     categories: "outfitting",
@@ -57,9 +60,10 @@ const outfitting = [
   },
 
   {
+    outOfStock: true,
     id: "plateRack",
     name: "Bumper Plate Rack",
-    price: "149.99",
+    price: "169.99",
     weight: "17500",
     url: "http://villainusa.com/products",
     categories: "outfitting",
@@ -79,7 +83,7 @@ const outfitting = [
   {
     id: "squatRack",
     name: "Squat Rack",
-    price: "269.99",
+    price: "229.99",
     weight: "37500",
     url: "http://villainusa.com/products",
     categories: "outfitting",
@@ -96,9 +100,10 @@ const outfitting = [
   },
 
   {
+    outOfStock: true,
     id: "jerkBlocks",
     name: "Jerk Blocks",
-    price: "899.99",
+    price: "999.99",
     weight: "80000",
     url: "http://villainusa.com/products",
     categories: "outfitting",
@@ -116,9 +121,10 @@ const outfitting = [
   },
 
   {
+    outOfStock: true,
     id: "platform",
     name: "Weightlifting Platform",
-    price: "949.99",
+    price: "1099.99",
     weight: "126000",
     url: "http://villainusa.com/products",
     categories: "outfitting",
